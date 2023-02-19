@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/woman-and-bear-r2-MCOG-AV/static/css/main.d2649ba4.css",
-    "main.js": "/woman-and-bear-r2-MCOG-AV/static/js/main.97d3072d.js",
+    "main.js": "/woman-and-bear-r2-MCOG-AV/static/js/main.80085a91.js",
     "static/js/787.e7406f7c.chunk.js": "/woman-and-bear-r2-MCOG-AV/static/js/787.e7406f7c.chunk.js",
     "static/media/intro.m4v": "/woman-and-bear-r2-MCOG-AV/static/media/intro.e41160f26f1745c81dcb.m4v",
     "static/media/page08wf.png": "/woman-and-bear-r2-MCOG-AV/static/media/page08wf.c39f734907381a096b5c.png",
@@ -17,16 +17,15 @@
     "static/media/page06wf.png": "/woman-and-bear-r2-MCOG-AV/static/media/page06wf.51c829f4e31f0bb17c5e.png",
     "static/media/2.10_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.10_metacog.32e0bff2d4c327947e71.mp3",
     "static/media/2.T_cog_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.T_cog_metacog.cdc28f2073648d05f204.mp3",
+    "static/media/2.11_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.11_metacog.422b727418e9d3396a2b.mp3",
     "static/media/failure.wav": "/woman-and-bear-r2-MCOG-AV/static/media/failure.e2d2c19dc9877c56a5fb.wav",
     "static/media/success.wav": "/woman-and-bear-r2-MCOG-AV/static/media/success.cb47d7774aacf8a9e2ab.wav",
     "static/media/2.4_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.4_metacog.7b26ffcee26175a2772c.mp3",
     "static/media/2.2_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.2_metacog.fb108cb8b547f6ce12bf.mp3",
     "static/media/2.5_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.5_metacog.3d40307fd2af6b6fd7e1.mp3",
     "static/media/2.6_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.6_metacog.d1c2ece3fbe652834be2.mp3",
-    "static/media/2.11_metacog1.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.11_metacog1.b84b7931fd0453595a8a.mp3",
     "static/media/2.9_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.9_metacog.b4497a1d7832aa91a1e5.mp3",
     "static/media/2.1_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.1_metacog.193c2c605a5fd561f535.mp3",
-    "static/media/2.11_metacog2.MP3": "/woman-and-bear-r2-MCOG-AV/static/media/2.11_metacog2.ef0fb1f87a457b6ec559.MP3",
     "static/media/Century Gothic.ttf": "/woman-and-bear-r2-MCOG-AV/static/media/Century Gothic.b194aa2bd524e2c973f7.ttf",
     "static/media/2.3_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.3_metacog.60a255bf338f9ba4dc50.mp3",
     "static/media/2.8_metacog.mp3": "/woman-and-bear-r2-MCOG-AV/static/media/2.8_metacog.a275f75a8ad85980d5ef.mp3",
@@ -34,11 +33,11 @@
     "static/media/Avatar.png": "/woman-and-bear-r2-MCOG-AV/static/media/Avatar.01842f6936c3117820fd.png",
     "index.html": "/woman-and-bear-r2-MCOG-AV/index.html",
     "main.d2649ba4.css.map": "/woman-and-bear-r2-MCOG-AV/static/css/main.d2649ba4.css.map",
-    "main.97d3072d.js.map": "/woman-and-bear-r2-MCOG-AV/static/js/main.97d3072d.js.map",
+    "main.80085a91.js.map": "/woman-and-bear-r2-MCOG-AV/static/js/main.80085a91.js.map",
     "787.e7406f7c.chunk.js.map": "/woman-and-bear-r2-MCOG-AV/static/js/787.e7406f7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2649ba4.css",
-    "static/js/main.97d3072d.js"
+    "static/js/main.80085a91.js"
   ]
 }
